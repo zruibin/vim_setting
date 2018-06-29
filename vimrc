@@ -23,6 +23,9 @@ set cursorcolumn
 "autocmd InsertEnter * se cul
 " 用浅色高亮当前行
 
+" 标签页数量
+set tabpagemax=15
+
 set smartindent
 " 智能对齐
 
