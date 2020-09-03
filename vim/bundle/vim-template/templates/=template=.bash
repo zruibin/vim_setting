@@ -2,8 +2,8 @@
 #
 # %FFILE%
 #
-# Created by %USER% on %YEAR%/%MONTH%/%DAY%.
-# Copyright (c) %YEAR%年 %USER% All rights reserved. 
+# Created by Ruibin.Chow on %YEAR%/%MONTH%/%DAY%.
+# Copyright (c) %YEAR%年 Ruibin.Chow All rights reserved. 
 #
 
 

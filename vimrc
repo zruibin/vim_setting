@@ -62,7 +62,7 @@ set ignorecase
 "set noignorecase
 " 考虑大小写
 
-set history=100
+set history=1000
 " 历史纪录数
 
 set hlsearch
@@ -81,7 +81,7 @@ colorscheme molokai
 hi Normal  ctermfg=252 ctermbg=none
 " 设置颜色主题
 
-set guifont=Monaco:h15
+set guifont=Consolas:h15
 " 设置字体
 
 set langmenu=zn_CN.UTF-8
@@ -139,7 +139,7 @@ set nocompatible
 set backspace=2
 
 "列宽度
-set cc=100
+set cc=80
 
 "定义快捷键的前缀，即<Leader>
 let mapleader=";"
@@ -293,7 +293,7 @@ function GetEmail()
     return 'ruibin.chow@qq.com'
 endfunction
 
-
+let g:username = 'Ruibin.Chow'
 
 
 
