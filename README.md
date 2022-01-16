@@ -1,7 +1,7 @@
-###My personal vim setting
+### My personal vim setting
 
 
-###Build
+### Build
 
 **neocomplete.vim支持Lua**
 
